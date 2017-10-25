@@ -1,5 +1,5 @@
 ---
-date: '2017-10-24T17:48:32.256Z'
+date: '2017-10-25T19:07:22.226Z'
 layout: page
 title: About
 permalink: /about/
